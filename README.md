@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <base href="https://kakmamayashii.github.io/love/">
+  <base href="file:///C:/Users/Matvey/Desktop/Новая%20папка/index.html">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>I Love You Heart Animation</title>
